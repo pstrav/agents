@@ -1,0 +1,23 @@
+livekit-agents/livekit/agents/llm/_responses_engine.py
+  s_6f6b808780da3c::t_0ff5ee0750763a 568,571,574
+tests/test_plugin_openai_responses.py
+  s_6f6b808780da3c::t_0ff5ee0750763a 12,779-782,784-785,787-788,791-848
+  s_6f6b808780da3c::t_1c83e21526c530 783,786,789-790
+  s_6f6b808780da3c::t_238203a65d28cd 849-850
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "e206141fc9668a80bf896d3bde0e640887f48403",
+  "prompts": {},
+  "sessions": {
+    "s_6f6b808780da3c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1e8fa-2960-7f70-8a0c-c145b4bea17a",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Panos Stravopodis <panos@elyosenergy.com>"
+    }
+  }
+}
